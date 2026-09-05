@@ -1,0 +1,2 @@
+(library
+ (name ciede_2000_ocaml))

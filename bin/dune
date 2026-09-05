@@ -1,0 +1,4 @@
+(executable
+ (public_name ciede-2000-ocaml)
+ (name main)
+ (libraries ciede_2000_ocaml))
